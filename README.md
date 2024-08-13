@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Connect with me:  [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](www.linkedin.com/in/shakeeb-hassan-706001294)
 &nbsp;
 
-
+<!--
 ## Languages and Tools
 <img src="{[BadgeURLHere](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1)}" />
 <img src="{[BadgeURLHere](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)}" />
-
+-->
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
