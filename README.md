@@ -1,5 +1,5 @@
 ## Hi there 👋 my names Shakeeb!
-London, Software Developer
+Software Developer
 
 <!--
 **shakshakeeb/shakshakeeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working using JavaScript, Java, Python, Django, MongoDB, MySQL and many more!
 - 🌱 I’m currently learning Vue, TypeScript, Express
 - 📫 How to reach me: shakeebhassanwork@gmail.com
-- ⚡ Connect with me:  [[params.social]]
+<!--- ⚡ Connect with me:  [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
     link = "//linkedin.com/in/shakeeb-hassan-706001294"
